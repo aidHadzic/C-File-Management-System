@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
 		exit(EXIT_FAILURE);
 	}
 	
-	char *extension = getExt(argv[2]);
+	char *extension = getExt(argv[2]); 
 	char *newExtension = argv[3];
 	char *fullfileName = argv[2];
 
