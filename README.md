@@ -26,3 +26,4 @@ Every possible function about files that can come to your mind
 
 <h3>Tests </h3>
 <p>Download the project and navigate through the command line to the downloaded folder. You can also set the downloaded foler in $PATH variable and use functions from all locations. Programs are very user friendly and user can use flags for some more features. Use 'gcc' to compile the files and follow the instructions returned where cleary states how to compile and to use file.</p>
+<p>Youtube video soon...</p>
